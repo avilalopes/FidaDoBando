@@ -1,0 +1,16 @@
+D:\git\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.exe
+D:\git\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.deps.json
+D:\git\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.json
+D:\git\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.runtimeconfig.dev.json
+D:\git\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.dll
+D:\git\FilaDoBanco\bin\Debug\net5.0\ref\FilaDoBanco.dll
+D:\git\FilaDoBanco\bin\Debug\net5.0\FilaDoBanco.pdb
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csprojAssemblyReference.cache
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfoInputs.cache
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.AssemblyInfo.cs
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.csproj.CoreCompileInputs.cache
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.dll
+D:\git\FilaDoBanco\obj\Debug\net5.0\ref\FilaDoBanco.dll
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.pdb
+D:\git\FilaDoBanco\obj\Debug\net5.0\FilaDoBanco.genruntimeconfig.cache
